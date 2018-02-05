@@ -18,6 +18,7 @@
 
 #include <Python.h>
 #include <stdbool.h>
+#include <sys/types.h>
 
 #include <aerospike/aerospike.h>
 #include <aerospike/as_key.h>
